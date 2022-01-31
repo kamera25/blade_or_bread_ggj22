@@ -26,7 +26,7 @@
 
 1) Git経由でリポジトリをダウンロードして、ローカルに展開します。  
 2) Unity 2020.3.26(LTS)f1でクローンしたプロジェクトを指定して、展開してください。
-3) 不足しているアセットや音を追加してください(一部素材は二次配布禁止なので…すみません)。
+3) 項目 **「お借りした素材」** を参考に、不足しているアセットや音を追加してください(一部素材は二次配布禁止なので…すみません)。
 
 
 ## 今年のグローバルゲームジャム
@@ -50,6 +50,7 @@
 - [効果音LAB様](https://soundeffect-lab.info)
 - [DOVA-SYNDROME様](https://dova-s.jp) 
 - [グラネタ様](https://everblasting.info) 
+- [AllSky(Unityアセットストア)](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109)
 
 #### ライセンス: [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)][license-link]
 #### [GGJの法的とポリシー情報][ggj-legal-link]
